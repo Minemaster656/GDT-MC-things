@@ -1,0 +1,4 @@
+name: GDT-things
+version: '${project.version}'
+main: com.gdt.gdtthings.Main
+api-version: '1.20'
