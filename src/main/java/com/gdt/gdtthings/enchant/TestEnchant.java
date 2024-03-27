@@ -1,2 +1,10 @@
-package com.gdt.gdtthings.enchant;public class Test {
+package com.gdt.gdtthings.enchant;
+
+
+
+
+
+public class TestEnchant {
+
+
 }

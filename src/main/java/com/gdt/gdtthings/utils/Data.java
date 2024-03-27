@@ -1,2 +1,4 @@
-package com.gdt.gdtthings.utils;public class Data {
+package com.gdt.gdtthings.utils;
+
+public class Data {
 }
